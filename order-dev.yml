@@ -10,3 +10,6 @@ spring:
     show-sql: true
 env:
   dev2
+girl:
+  name: Julia
+  age: 18
